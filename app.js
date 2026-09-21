@@ -9,9 +9,9 @@
    ============================================================ */
 
 const SOCIAL_LINKS = {
-  instagram: "https://instagram.com/",
-  telegram: "https://t.me/",
-  youtube: "https://youtube.com/"
+  instagram: "https://instagram.com/30maktabrasmiy",
+  telegram: "https://t.me/maktab_30Xovos",
+  youtube: "https://youtube.com/xovostumani30-idum12"
 };
 
 const SCHOOL_INFO = {
